@@ -182,6 +182,10 @@ The system is structured as follows:
 *   `/api/v1/debug-get-interview/<interview_id>` (GET): Retrieves details of a specific interview (requires `X-API-KEY` header).
 
 
+Note:Original cod eis internal to the company and cannot be shared.
+This public portfolio repo contains project description and architecture for placement purpose only.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE)."# Automated-hr-interview-scheduler" 
