@@ -182,3 +182,6 @@ The system is structured as follows:
 *   `/api/v1/debug-get-interview/<interview_id>` (GET): Retrieves details of a specific interview (requires `X-API-KEY` header).
 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
